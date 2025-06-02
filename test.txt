@@ -1,1 +1,1 @@
-Test WSL Git
+Test WSL Git integration
